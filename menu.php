@@ -1,10 +1,10 @@
 <div id="topLeft">
 
-<div class="content-title">Getting Started</div>
-    <a href="index.php" class="content-text">1. Introduction</a><br />
-    <a href="switching.php" class="content-text">2. Switching to GNU/Linux</a><br />
-    <a href="acquisition.php" class="content-text">3. Getting openSUSE</a><br />
-    <a href="installation.php" class="content-text">4. Installation</a><br />
+<div class="content-title">Iniziamo</div>
+    <a href="index.php" class="content-text">1. Introduzione</a><br />
+    <a href="switching.php" class="content-text">2. Passare a GNU/Linux</a><br />
+    <a href="acquisition.php" class="content-text">3. Scaricare openSUSE</a><br />
+    <a href="installation.php" class="content-text">4. Installazione</a><br />
 
 <div class="content-title">Day to Day Use</div>
     <a href="kde.php" class="content-text">5. KDE Workspace</a><br />
