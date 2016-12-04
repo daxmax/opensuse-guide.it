@@ -1,2 +1,2 @@
-# opensuse-guide.org
-Unofficial guide to openSUSE Leap
+# opensuse-guide.it
+Guida non ufficiale a openSUSE Leap
