@@ -34,17 +34,17 @@ Dopo l'installazione riavvia il computer.<br /><br />
 
 
 
-<div class="heading3">15.1.2 Install the Nvidia Driver in the Terminal</div>
-You can install the Nvidia driver in the terminal. <u>By using this method you don't need to know your graphics card model or series</u>.<br /><br />
+<div class="heading3">15.1.2 Installare il Driver Nvidia Driver dal Terminale</div>
+Puoi installare i driver Nvidia direttamente dal Terminale. <u>Con questo metodo non è necessario conoscere il modello (o la serie) della scheda grafica</u>.<br /><br />
 
-First add the repository:
+Per prima cosa aggiungi il repository:
 <div class="clroot">zypper addrepo -f http://download.nvidia.com/opensuse/leap/42.2 nvidia</div><br />
 
-The following command should automatically install the correct driver for your card:<br />
+Il seguente comendo dovrebbe installare automaticamente il driver corretto per la tua scheda Nvidia:<br />
 
 <div class="clroot">zypper install-new-recommends</div><br />
 
-When installation is done reboot the computer.<br /><br />
+Dopo l'installazione riavvia il computer.<br /><br />
 
 
 
