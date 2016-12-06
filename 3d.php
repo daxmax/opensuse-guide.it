@@ -1,10 +1,10 @@
 <?php include 'header.php'; ?>
-<title>15. Graphics Drivers - Install Nvidia or ATI/AMD 3D Driver</title>
+<title>15. Driver Grafici - Come installare i driver 3D Nvidia e ATI/AMD</title>
 <?php include 'header2.php'; ?>
 <?php include 'menu.php'; ?> 
 
-<div class="heading1">15. Graphics Drivers</div>
-Note that there's no need to install the below non-free video drivers, if the free drivers used by default work for your needs.<br /><br />
+<div class="heading1">15. Driver Grafici</div>
+N.B. openSUSE Leap 42.2 viene fornito con driver free adatti alle più diffuse schede video. Non è necessario installare i driver proprietari se i driver utilizzati di default funzionano adeguatamente per le tue esigenze<br /><br />
 
 
 
@@ -13,24 +13,24 @@ Note that there's no need to install the below non-free video drivers, if the fr
 
 
 <div class="heading2">15.1 Nvidia</div>
-This section describes two different ways of installing the proprietary Nvidia graphics driver, either using 1-click installation or using the terminal.<br /><br />
+Questo capitolo descrive due differenti metodi per installare i driver proprietari Nvidia: il 1-click install oppure utilizzando il terminale<br /><br />
 
-<div class="heading3">15.1.1 Install the Nvidia Driver with 1-Click Installation</div>
-Click on the button corresponding to your Nvidia graphics card to install the driver with 1-click install.<br /><br />
+<div class="heading3">15.1.1 Installare i Driver Nvidia con 1-Click Install</div>
+Clicca sul bottone corrispondente alla tua scheda grafica Nvidia per installare il driver con 1-click install.<br /><br />
 
 
-This driver covers any Nvidia graphics card from Geforce 400 series and later.<br /><br />
+Questo driver funziona con le schede grafiche Nvidia successive alla Geforce 400.<br /><br />
 <center><a href="http://opensuse-community.org/nvidia.ymp"><img src="images/oneclick/nvidia_gf400.png" alt="ymp" class="pic" /></a></center><br />
 
-This driver covers any Nvidia graphics card newer than 2008 or so. Including GeForce 8, GeForce 100-, 200- and 300-series.<br /><br />
+Questo driver funziona con le schede grafiche Nvidia successive al 2008. Sono incluse le GeForce 8, GeForce 100-, 200- e 300-series.<br /><br />
 
 <center><a href="http://opensuse-community.org/nvidia_gf8.ymp"><img src="images/oneclick/nvidia-gf8.png" alt="ymp" class="pic" /></a></center><br />
 
-This driver covers Nvidia graphics card roughly from 2007 or older. Including GeForce 6 and 7.<br /><br />
+Questo driver funziona con le shede grafiche Nvidia più vecchie, approssimativamente successive al 2007. Sono incluse le GeForce 6 e 7.<br /><br />
 
 <center><a href="http://opensuse-community.org/nvidia-gf6_gf7.ymp"><img src="images/oneclick/nvidia-gf6.png" alt="ymp" class="pic" /></a></center><br />
 
-Afterwards reboot the computer.<br /><br />
+Dopo l'installazione riavvia il computer.<br /><br />
 
 
 
