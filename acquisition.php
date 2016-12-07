@@ -1,38 +1,38 @@
 <?php include 'header.php'; ?>
-<title>3. Getting openSUSE - Howto Download or Buy openSUSE</title>
+<title>3. Procurarsi openSUSE - Come scaricare o acquistare openSUSE</title>
 <?php include 'header2.php'; ?>
 <?php include 'menu.php'; ?> 
 
 
-<div class="heading1">3. Getting openSUSE</div>
-Here are some of the ways of acquiring openSUSE.<br /><br />
+<div class="heading1">3. Procurarsi openSUSE</div>
+Ecco alcuni suggerimenti per procurarsi openSUSE.<br /><br />
 
-<div class="heading2">3.1 Download It</div>
-You can download openSUSE free of charge. Just go to:<br />
+<div class="heading2">3.1 Scaricarlo</div>
+Puoi scaricare openSUSE gratuitamente. Basta andare su:<br />
 <a href="http://software.opensuse.org/" target="_blank">http://software.opensuse.org/</a><br /><br />
 
-The full DVD (4.7 GB) provides the most smooth and complete experience. You don't have to use a DVD, it can also be put on a USB stick (see next chapter).<br /><br />
+Il DVD (4.7 GB) di solito è la scelta migliore per la maggior parte degli utenti. Ma devi usare necessariamente un DVD, pui anche utilizzare una chiavetta USB (vedi il prossimo capitolo).<br /><br />
 
 
-<div class="heading2">3.2 Buy Cheap Unofficial Media</div>
-There are many webshops that offer to sell unofficial media (DVD, USB-stick) with openSUSE very cheap. This is of course absolutely legal, as we're dealing with free software.<br /><br />
+<div class="heading2">3.2 Compra un DVD o una chiavetta USB</div>
+Alcuni siti vendono DVD o chiavette USB con openSUSE precaricato a prezzi economici. La loro vendita è assolutamente legale visto che vengono vendute con all'interno del software free.<br /><br />
 
-This saves you the trouble of downloading and burning the media yourself, and the subsequent risk of errors. See for example:<br />
+Questa scelta evita di dover scaricare e masterizzare i supporti, con il rischio di fare errori. Ecco alcuni esempi:<br />
 <a href="http://www.linuxpusher.com/distributions/OpenSuSE" target="_blank">Linuxpusher.com</a><br />
 <a href="http://www.osdisc.com/cgi-bin/view.cgi/products/linux/suse" target="_blank">OSDisc.com</a><br />
 <a href="http://www.ixsoft.de/cgi-bin/web_store.cgi?ref=Catalogs/de/opensuse-catalog.html" target="_blank">Ixsoft.de</a><br />
 <a href="http://thelinuxshop.co.uk/opensuse-m-14.html" target="_blank">Thelinuxshop.co.uk</a><br /><br />
 
 
-<div class="heading2">3.3 Buy a Box Set</div>
-There are companies selling openSUSE in a (German language) box with support, and additional goodies included, see:<br />
+<div class="heading2">3.3 Acquista openSUSE in box</div>
+E' possibile acquistare openSUSE (al momento è disponibile solamente in tedesco) in una scatola con supporto ed extra addizionali. Vai su:<br />
 <a href="http://en.opensuse.org/Buy_openSUSE" target="_blank">http://en.opensuse.org/Buy_openSUSE</a><br /><br />
 
 <center><img src="images/pics/box.png" alt="box" /></center><br />
 
 
-<div class="heading2">3.4 The Source Code</div>
-You can find the source code for all the free packages in openSUSE here, in the form of source RPM files:<br />
+<div class="heading2">3.4 Codice Sorgente (Source Code)</div>
+Puoi trovare il codice sorgente di tutti i pacchetti RPM presenti in openSUSE qui:<br />
 <a href="http://download.opensuse.org/source/distribution/leap/42.2/repo/oss/suse/src/" target="_blank">http://download.opensuse.org/source/distribution/leap/42.2/repo/oss/suse/src/</a>
 <br /><br />
 
