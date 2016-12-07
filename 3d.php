@@ -54,7 +54,7 @@ Dopo l'installazione riavvia il computer.<br /><br />
 
 
 <div class="heading2">15.2 ATI/AMD</div>
-The free software drivers included by default should work pretty well for most. A proprietary driver does exist, but it is no longer being developed by AMD, instead they are working on improving the free drivers. Read more here:<br/>
+I driver free caricati di default dovrebbero funzionare correttamente per la maggior parte delle schede AMD. Un driver proprietario esiste ma non è più sviluppato da AMD che, al contrario, sta lavorando per migliorare i driver free. Ulteriori informazioni qui:<br/>
 
 <a href="https://lizards.opensuse.org/2016/10/15/proprietary-amdati-catalyst-fglrx-15-12-rpms-released-for-leap-42-2/" target="_blank">https://lizards.opensuse.org/2016/10/15/proprietary-amdati-catalyst-fglrx-15-12-rpms-released-for-leap-42-2/</a><br /><br />
 
@@ -65,7 +65,7 @@ The free software drivers included by default should work pretty well for most. 
 
 
 <div class="heading2">15.3 Intel</div>
-The 3D drivers for Intel graphics cards are free software, and can therefore be included in openSUSE out of the box. No additional installation or configuration is needed.<br /><br />
+I driver 3D per le schede grafiche Intel sono già inclusi in openSUSE. Non è necessaria nessuna installazione o configurazione aggiuntiva.<br /><br />
 
 
 <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">
