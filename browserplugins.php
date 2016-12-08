@@ -33,34 +33,34 @@ Installare Flash da terminale:
 
 
 <div class="heading2">14.2 Java</div>
-Java web applets are used for games, home banking in some countries, and various other things.<br /><br />
+I Java web applets sono utilizzati nei giochi, in siti home banking, e in altre varie funzioni.<br /><br />
 
-Install the package <b>java-1_8_0-openjdk-plugin</b> with the package manager if it isn't already installed.<br /><br />
+Se non è installato nel sistema, installa il pacchetto <b>java-1_8_0-openjdk-plugin</b> con il gestore dei pacchetti.<br /><br />
 
-Installing Java browser plugin in the terminal:
+Installare il Java browser plugin con il terminale:
 <div class="clroot">zypper install java-1_8_0-openjdk-plugin</div><br />
 
 
 
-<div class="heading2">14.3 Video and Audio Streaming</div>
-To get support for various multimedia streams in Firefox and other browsers, install the package <b>xine-browser-plugin</b> (<i>Packman Repository</i> required).<br /><br />
+<div class="heading2">14.3 Streaming Video e Audio</div>
+Per abilitare Firefox (e altri browser) a vari stream multimediali, installa il pacchetto <b>xine-browser-plugin</b> (è necessario il <i>Repository Packman</i>).<br /><br />
 
-Installing multimedia plugin in the terminal:
+Installare il plugin dal terminale:
 <div class="clroot">zypper install xine-browser-plugin</div><br />
 
 
 
 <div class="heading2">14.4 Microsoft Silverlight</div>
-Microsoft have created something called Silverlight to compete with Adobe Flash in making the web require proprietary extensions.<br /><br />
+Microsoft ha creato Silverlight per competere con Adobe Flash.<br /><br />
 
-As you'd expect Microsoft do <i>not</i> provide an official plugin for GNU/Linux, but there is something called <a href="http://fds-team.de/cms/articles/2013-08/pipelight-using-silverlight-in-linux-browsers.html" target="_blank">Pipelight</a> bringing Microsoft Silverlight to the GNU/Linux platform. You can find Pipelight packages for openSUSE <a href="http://software.opensuse.org/package/pipelight" target="_blank">here</a><br /><br />
+Microsoft <i>non</i> ha un plugin ufficiale per GNU/Linux, ma c'è un programma chiamato <a href="http://fds-team.de/cms/articles/2013-08/pipelight-using-silverlight-in-linux-browsers.html" target="_blank">Pipelight</a> che permette di usare Microsoft Silverlight su GNU/Linux. Trovi i pacchetti Pipelight per openSUSE <a href="http://software.opensuse.org/package/pipelight" target="_blank">a questo indirizzo</a>.<br /><br />
 
-Netflix will play in the latest Google Chrome Browser, without any need for Microsoft Silverlight.<br /><br />
+Netflix funziona correttamente senza Microsoft Silverlight nell'ultima versione el browser Chrome di Google.<br /><br />
 
 
 
 <div class="heading2">14.5 Google Hangouts</div>
-Google provide voice and video chat with Google services on GNU/Linux with a browser plugin. Download the RPM files for openSUSE here:<br />
+Con Google Hangouts è possibile fare chat e video con amici direttamente sul browser web tramite un apposito plugin. Puoi scaricare il pacchetto RPM per openSUSE qui:<br />
 <a href="http://www.google.com/chat/video">http://www.google.com/chat/video</a><br /><br />
 
 
