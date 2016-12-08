@@ -1,12 +1,12 @@
 <?php include 'header.php'; ?>
-<title>14. Browser Plugins - Install Plugins For Your Web Browser Such As Flash and Java</title>
+<title>14. Browser Plugins - Installare Plugins per il tuo Web Browser come Flash e Java</title>
 <?php include 'header2.php'; ?>
 <?php include 'menu.php'; ?> 
 
 
 
 <div class="heading1">14. Browser Plugins</div>
-Many websites require various browser plugins to be installed to function as expected. Here are some plugins that you may want to install.<br /><br /> 
+Molti siti web richiedono l'installazione di alcuni plugin per funzionare al meglio. Qui trovi indicazioni su come installare i principali plugin.<br /><br /> 
 
 
 <div class="tip">
@@ -14,7 +14,7 @@ Many websites require various browser plugins to be installed to function as exp
 <tbody>
 <tr>
 <td><img src="images/pics/tip.png" alt="tip" /></td>
-<td>If the concepts of <i>package manager</i> and <i>repositories</i> are foreign to you, revisit the chapters <a href="installpackage.php">Installing Software</a> and <a href="repositories.php">Software Repositories</a>.</td>
+<td>Se i concetti <i>gestore di pacchetti</i> e <i>repositories</i> ti sono estranei, rileggi i capitoli <a href="installpackage.php">Installare il software</a> e <a href="repositories.php">Software Repositories</a>.</td>
 </tr>
 </tbody>
 </table>
@@ -23,9 +23,9 @@ Many websites require various browser plugins to be installed to function as exp
 
 
 <div class="heading2">14.1 Adobe Flash</div>
-Install the package <b>flash-player</b>, if you need Flash support for some online videos, games and other things (<i>Packman Repository</i> is required).<br /><br />
+Installa il pacchetto <b>flash-player</b>, se necessiti Flash per guardare video online, giochi o altre cose (N.B. il <i>Repository Packman</i> deve essere abilitato).<br /><br />
 
-Installing Flash in the terminal:
+Installare Flash da terminale:
 
 <div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_42.2/ packman</div><br />
 <div class="clroot">zypper install freshplayerplugin</div><br /><br />
