@@ -1,11 +1,11 @@
 <?php include 'header.php'; ?>
-<title>8. Terminal - Running Commands and Using the Command Line Interface on openSUSE</title>
+<title>8. Terminale - Come lanciare i Comandi dalla riga di comando di openSUSE</title>
 <?php include 'header2.php'; ?>
 <?php include 'menu.php'; ?> 
 
 
 
-<div class="heading1">8. Terminal</div>
+<div class="heading1">8. Terminale</div>
 Almost anything can be done graphically on a modern GNU/Linux distribution like openSUSE, but to really become a self-reliant user and to truly take advantage of the power of your GNU/Linux operating system, you should at least know a few terminal basics - it's not difficult at all!<br /><br />
 
 There are thousands of commands you can run, each with a number of different options. So this chapter is just a small teaser describing the most common commands.<br /><br />
