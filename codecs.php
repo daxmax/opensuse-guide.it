@@ -1,21 +1,21 @@
 <?php include 'header.php'; ?>
-<title>13. Multimedia Codecs - Install Support for restricted codecs including MP3, DVD, WMA, WMV, MOV etc.</title>
+<title>13. Codec Multimediali - Installare i codec multimediali per MP3, DVD, WMA, WMV, MOV ecc.</title>
 <?php include 'header2.php'; ?>
 <?php include 'menu.php'; ?> 
 
 
 
-<div class="heading1">13. Multimedia Codecs</div>
-This chapter describes two different methods for installing the packages needed to playback most multimedia formats - including MP3, DVDs etc., with Dragon (video) and Amarok (audio). You can use manual 1-click installation or use the command line - whichever method you prefer.<br /><br />
+<div class="heading1">13. Codec Multimediali</div>
+Questo capitolo descrive due differenti metodi per installare i pacchetti necessari a gestire i i più diffusi formati multimediali, inclusi MP3, DVD ecc., con Dragon Player (video) e Amarok (audio). Puoi utilizzare la comoda 1-click install oppure usare la riga di comando.<br /><br />
 
-By default only free, open, non-patent encumbered formats such as Ogg Theora, Ogg Vorbis and Flac are supported for legal reasons (US software patents and Digital Millennium Copyright Act (DMCA)).<br /><br />
-
-
+Di default, per ragioni legali, openSUSE supporta solamente i formati open come Ogg Theora, Ogg Vorbis e Flac.<br /><br />
 
 
-<div class="heading2">13.1 Codec Installation with 1-Click</div>
 
-1) Click on the button below to add the necessary repositories and install the required packages with 1-click install.<br /><br />
+
+<div class="heading2">13.1 Installare i Codec con 1-Click</div>
+
+1) Clicca sul bottone sottostante per aggiungere i repositori necessari e installare i pacchetti con 1-click install.<br /><br />
 
 <center><a href="http://opensuse-community.org/codecs-kde.ymp"><img src="images/oneclick/codecs.png" alt="ymp" class="pic" /></a></center><br />
 
@@ -24,14 +24,14 @@ By default only free, open, non-patent encumbered formats such as Ogg Theora, Og
 <tbody>
 <tr>
 <td><img src="images/pics/tip.png" alt="tip" /></td>
-<td>If a conflict dialog appears, select to install the packages <i>with</i> Vendor Change.</td>
+<td>Se compare un messaggio di conflitto tra dipendenze, scegli di installare i pacchetti <i>con</i> Cambio di fornitore.</td>
 </tr>
 </tbody>
 </table>
 </div><br />
 
-2) Afterwards make sure all your multimedia packages are coming from the Packman Repository:
-<div class="path">Start YaST Software Management => Click on View => Click on Repositories => Select the Packman Repository => Click "Switch system packages"</div><br />
+2) Finita l'installazione  accertati che tutti i pacchetti multimediali provengano dal Repository Packman:
+<div class="path">Lancia YaST => apri il Gestore dei pacchetti => Clicca su Visualizza => Clicca su Repository => Seleziona Packman Repository => Clicca "Passa i pacchetti di sistema"</div><br />
 
 <center><a href="images/screenshots/packman-vendorchange.png" rel="thumbnail"><img src="images/screenshots/packman-vendorchangeb.png" alt="packman_vendor_change" class="pic" /></a></center><br /><br />
 
