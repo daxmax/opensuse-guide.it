@@ -37,50 +37,31 @@ Di default, per ragioni legali, openSUSE supporta solamente i formati open come 
 
 
 
-<div class="heading2">13.2 Codec Installation in the Terminal</div>
-To install codecs using the terminal instead, do these steps:<br /><br />
+<div class="heading2">13.2 Installazione dei Codec dal Terminale</div>
+Per installare i Codec Multimediali con il terminale segui queste istruzioni:<br /><br />
 
 <div class="tip">
 <table>
 <tbody>
 <tr>
 <td><img src="images/pics/tip.png" alt="tip" /></td>
-<td>Use Copy/Paste to avoid typos. To paste in Konsole right click mouse => Paste - or use <b>Ctrl+Shift+V</b>.</td>
+<td>Use il Copia/Incolla per evitare errori di battitura. Per copiare nel terminale (Konsole) tasto destro del mouse => Incolla - oppure utilizza <b>Ctrl+Shift+V</b>.</td>
 </tr>
 </tbody>
 </table>
 </div><br />
 
-1) Add the needed repositories:
+1) Aggiungi i repository:
 <div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_42.2/ packman</div>
 <div class="clroot">zypper addrepo -f http://opensuse-guide.org/repo/openSUSE_Leap_42.2/ dvd</div><br />
 
-2) Then install the necessary packages:
+2) Ora installa i pacchetti:
 <div class="clroot">zypper install k3b-codecs ffmpeg lame gstreamer-plugins-bad gstreamer-plugins-ugly gstreamer-plugins-ugly-orig-addon gstreamer-plugins-libav libdvdcss2</div><br />
 
-You will be asked if you want to allow vendor change for some packages - allow it.<br /><br />
+Ti verrà chiesto se vuoi cambiare il fornitore di alcuni pacchetti - permetti il cambio.<br /><br />
 
-3) Make sure all your multimedia packages are coming from the Packman Repository: 
+3) Assicurati che tutti i tuoi pacchetti multimediali provengano dal Repository Packman: 
 <div class="clroot">zypper dup --from http://packman.inode.at/suse/openSUSE_Leap_42.2/</div>
-
-<table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">
-	<tbody>
-	<tr>
-		<td style="width: 50%;"><div style="text-align: center;"><a href="windows.php"><img class="pic" style="width: 32px; height: 32px;" alt="prev" src="images/pics/prev.png" /></a></div></td>
-		<td style="width: 50%;"><div style="text-align: center;"><a href="browserplugins.php"><img class="pic" style="width: 32px; height: 32px;" alt="next" src="images/pics/next.png" /></a></div></td>
-	</tr>
-</tbody>
-</table>
-
-<?php include 'footer.php'; ?>
-
-
-2) Then install the necessary packages:
-<div class="clroot">zypper install k3b-codecs ffmpeg lame gstreamer-plugins-bad gstreamer-plugins-ugly gstreamer-plugins-ugly-orig-addon gstreamer-plugins-libav libdvdcss2</div><br />
-
-3) You will be asked if you want to allow vendor change for some packages - allow it.<br /><br />
-
-
 
 <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">
 	<tbody>
