@@ -182,22 +182,22 @@ Scaricare un modulo del kernel.<br />
 
 <div class="heading3">8.2.8 Informazioni Hardware</div>
 
-The command hwinfo can provide you with information about almost any hardware, some examples:<br />
+Il comando hwinfo può fornire informazioni della maggior parte dell'hardware del tuo PC. Ecco alcuni esempi:<br />
 <div class="clroot">hwinfo --short --wlan</div>
 <div class="clroot">hwinfo --short --gfxcard</div><br />
 
-List PCI devices:
+Elenco dei dispositivi PCI:
 <div class="clroot">lspci</div><br />
 
-List USB devices:
+Elenco dei dispositivi USB:
 <div class="cl">lsusb</div><br /><br />
 
 
 
-<div class="heading2">8.3 Editing Text Files</div>
-Editing configuration files or other text files can be done like this using the vim editor, which is installed by default.<br /><br />
+<div class="heading2">8.3 Editare File di Testo</div>
+Editare file di configurazione o altri file di testo può essere fatto utilizzando l'editor vim, che è pre-installato.<br /><br />
 
-Open a file with <i>vim /path/to/file</i>. Example:<br />
+Apri un file con <i>vim /path/to/file</i>. Esempio:<br />
 <div class="clroot">vim /etc/sysconfig/yast2</div><br />
 
 <div class="note">
@@ -205,18 +205,18 @@ Open a file with <i>vim /path/to/file</i>. Example:<br />
 <tbody>
 <tr>
 <td><img src="images/pics/obs.png" alt="obs" /></td>
-<td>Root permissions are used in the example because <i>yast2</i> is a system configuration file - this is not generally required to edit files with vim.</td>
+<td>Nell'esempio vengono utilizzati i permessi di Root perché <i>yast2</i> è un file di configurazione del sistema - generalmente non è necessario editare file di sistema con vim.</td>
 </tr>
 </tbody>
 </table>
 </div><br />
 
-Press <b>i</b> to enter insert mode (you will see "-- INSERT --" at the bottom). Now you can edit the text in the file. When you're done editing press <b>Esc</b> to leave insert mode and return to command mode. Now type <b>:x</b> which is the command for exit and save. To quit without saving any changes use <b>:q!</b>.<br /><br />
+Premi <b>i</b> per entrare nella modalità di inserimento testo (vedrai "-- INSERT --" sul fondo). In questo modo puoi editare il testo nel file. Quando hai finito premi <b>Esc</b> per uscire dalla modalità inserimento testo e tornare alla modalità comando. Adesso scrivi <b>:x</b> che è il comando per salvare e uscire. Per uscire senza salvare usa <b>:q!</b>.<br /><br />
 
-You might consider installing a simpler text based editor, e.g. <i>nano</i>.<br /><br />
+Se vuoi puoi installare un editor di testo più semplice come <i>nano</i>.<br /><br />
 
-<div class="heading2">8.4 Further reading</div>
-If you want to learn more about using the terminal there are many resources available on the internet, here are a couple of links.<br />
+<div class="heading2">8.4 Approfondimenti</div>
+Se vuoi imparare a utilizzare al meglio il termilale puoi usufruire di molte guide disponibili su internet. Ecco qualche link.<br />
 <a href="http://linuxcommand.org/" target="_blank">http://linuxcommand.org/</a><br />
 <a href="http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html" target="_blank">http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html</a><br /><br />
 
