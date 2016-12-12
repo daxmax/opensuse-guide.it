@@ -59,75 +59,75 @@ Questa è una piccolissima selezione di comandi per darti un'idea di come funzio
 
 
 
-<div class="heading3">8.2.1 File Management</div>
+<div class="heading3">8.2.1 Gestione dei file</div>
 
-Changing directory<br />
+Cambiare directory (cartella)<br />
 <div class="cl">cd /home/user/directoryname/</div><br />
 
-Listing files of a directory<br />
+Elencare i file di una directory<br />
 <div class="cl">ls</div><br />
 
-Copying a file<br />
+Copiare un file<br />
 <div class="cl">cp filename /home/user/directoryname/filename</div><br />
 
-Deleting a file<br />
+Cancellare un file<br />
 <div class="cl">rm filename</div><br />
 
-Deleting a directory including contents<br />
+Cancellare una directory e tutto il suo contenuto<br />
 <div class="cl">rm -rf /home/user/directoryname</div><br />
 
-Moving or renaming a file<br />
+Spostare o rinominare un file<br />
 <div class="cl">mv /home/user/filename /home/user/newfilename</div><br /><br />
 
 
 
-<div class="heading3">8.2.2 System Monitoring</div>
+<div class="heading3">8.2.2 Monitorare il sistema</div>
 
-Running processes and consumpition of system resources. Press <b>'Q'</b> to exit.<br />
+Processi in esecuzione e utilizzo delle risorse del sistema. Premi <b>'Q'</b> per uscire.<br />
 <div class="cl">top </div><br />
 
-Disk space usage<br />
+Disco fisso utilizzato<br />
 <div class="cl">df</div><br />
 
-Memory consumption<br />
+Memoria utilizzata<br />
 <div class="cl">free</div><br /><br />
 
 
 
-<div class="heading3">8.2.3 Network</div>
+<div class="heading3">8.2.3 Rete</div>
 
-Find out your IP-address<br />
+Mostra il tuo IP-address<br />
 <div class="cl">ip a</div><br />
 
-Find out your gateway<br />
+Mostra il tuo gateway<br />
 <div class="cl">ip route</div><br />
 
-Find out your DNS servers<br />
+Mostra i DNS servers<br />
 <div class="cl">cat /etc/resolv.conf</div><br /><br />
 
 
 
-<div class="heading3">8.2.4 Man Pages and Help</div>
-Almost all commands have an accompanying manual page describing how to use the command and the available options. For example type:
+<div class="heading3">8.2.4 Manuali e Help</div>
+Quasi tutti i comandi hanno un manuale integrato che ne descrive l'uso e le opzioni applicabili. Prova a dare questo comando:
 <div class="cl">man cp</div><br />
 
-To leave the man page again press <b>'Q'</b><br /><br />
+Per uscire dal manuale premi <b>'Q'</b><br /><br />
 
-If a command does not have a man page, try <i>--help</i> instead, example:
+Se un comando non ha un manuale integrato prova con <i>--help</i>, esempio:
 <div class="cl">cp --help</div><br /><br />
 
 
 
-<div class="heading3">8.2.5 Becoming Root</div>
-To switch to the root user to perform system administration tasks, type:<br />
+<div class="heading3">8.2.5 Diventare Root</div>
+Per passare all'utente root, che permette di amministrare il sistema, scrivi:<br />
 <div class="cl">su -</div>
 
-Then type your (root) password. Nothing will appear on screen as you type, this is intended.<br /><br />
+E poi inserisci la password (per l'utente root). Nota che non comparirà niente mentre scrivi la password, questo è voluto.<br /><br />
 
-To stop working as root and return to working as your normal user, run <i>exit</i>.
+PEr uscire dall'utente root e tornare a lavorare come un normale utente, dai il comando <i>exit</i>.
 <div class="clroot">exit</div><br />
 
-To run a single command as root use:
+Per lanciare un singolo comando come utente root utilizza:
 <div class="cl">su -c "[command]"</div><br />
 
 <div class="note">
@@ -135,7 +135,7 @@ To run a single command as root use:
 <tbody>
 <tr>
 <td><img src="images/pics/obs.png" alt="obs" /></td>
-<td>Do not work as root unless it's required.</td>
+<td>Utilizza l'utente root solo quando è strettamente necessario.</td>
 </tr>
 </tbody>
 </table>
@@ -143,44 +143,44 @@ To run a single command as root use:
 
 
 
-<div class="heading3">8.2.6 System Tasks</div>
-Shutting down.<br />
+<div class="heading3">8.2.6 Attività di sistema</div>
+Spegnere il sistema.<br />
 <div class="clroot">systemctl shutdown</div><br />
 
-Rebooting.<br />
+Riavviare il sistema.<br />
 <div class="clroot">systemctl reboot</div><br />
 
-Start, stop, restart or get status of system services (start|stop|restart|status). Examples:<br />
+Avviare, terminare, riavviare o visualizzare lo stato delle attività di sistema (start|stop|restart|status). Esempi:<br />
 <div class="clroot">systemctl restart network</div>
 <div class="clroot">systemctl stop SuSEfirewall2_init</div>
 <div class="clroot">systemctl start apache2</div>
 <div class="clroot">systemctl status smb</div><br />
 
-Enable or disable a service from starting at every boot. Examples:
+Abilitare o disabilitare un'attività di sistema a ogni avvio. Esempi:
 <div class="clroot">systemctl enable sshd</div>
 <div class="clroot">systemctl disable cups</div><br /><br />
 
 
 
-<div class="heading3">8.2.7 The Kernel</div>
-Find out your kernel version and flavour.<br />
+<div class="heading3">8.2.7 Il Kernel</div>
+Visualizzare la versione del kernel utilizzata e la sua variante.<br />
 <div class="cl">uname -r</div><br />
 
-Check kernel messages (useful for troubleshooting hardware issues).<br />
+Visualizza i messaggi del kernel (utile per trovare e risolvere problemi/conflitti hardware).<br />
 <div class="clroot">dmesg</div><br />
 
-Listing loaded kernel modules.<br />
+Elenco dei moduli del kernel caricati.<br />
 <div class="clroot">lsmod</div><br />
 
-Loading a kernel module.<br />
+Caricare un modulo del kernel.<br />
 <div class="clroot">modprobe [modulename]</div><br />
 
-Unloading a kernel module.<br />
+Scaricare un modulo del kernel.<br />
 <div class="clroot">rmmod [modulename]</div><br /><br />
 
 
 
-<div class="heading3">8.2.8 Hardware Information</div>
+<div class="heading3">8.2.8 Informazioni Hardware</div>
 
 The command hwinfo can provide you with information about almost any hardware, some examples:<br />
 <div class="clroot">hwinfo --short --wlan</div>
