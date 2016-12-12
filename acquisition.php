@@ -4,10 +4,10 @@
 <?php include 'menu.php'; ?> 
 
 
-<div class="heading1">3. Procurarsi openSUSE</div>
+<div class="heading1">3. Come procurarsi openSUSE</div>
 Ecco alcuni suggerimenti per procurarsi openSUSE.<br /><br />
 
-<div class="heading2">3.1 Scaricarlo</div>
+<div class="heading2">3.1 Scaricalo</div>
 Puoi scaricare openSUSE gratuitamente. Basta andare su:<br />
 <a href="http://software.opensuse.org/" target="_blank">http://software.opensuse.org/</a><br /><br />
 
@@ -25,7 +25,7 @@ Questa scelta evita di dover scaricare e masterizzare i supporti, con il rischio
 
 
 <div class="heading2">3.3 Acquista openSUSE in box</div>
-E' possibile acquistare openSUSE (al momento è disponibile solamente in tedesco) in una scatola con supporto ed extra addizionali. Vai su:<br />
+E' possibile acquistare openSUSE (al momento è disponibile solamente in tedesco) in una confezione con supporto ed extra addizionali. Vai su:<br />
 <a href="http://en.opensuse.org/Buy_openSUSE" target="_blank">http://en.opensuse.org/Buy_openSUSE</a><br /><br />
 
 <center><img src="images/pics/box.png" alt="box" /></center><br />
