@@ -6,20 +6,20 @@
 
 
 <div class="heading1">8. Terminale</div>
-Almost anything can be done graphically on a modern GNU/Linux distribution like openSUSE, but to really become a self-reliant user and to truly take advantage of the power of your GNU/Linux operating system, you should at least know a few terminal basics - it's not difficult at all!<br /><br />
+In openSUSE, come in quasi tutte le moderne distribuzioni GNU/Linux, è possibile gestire tutte le principali funzioni graficamente. Però, se vuoi diventare indipendente dall'ambiente grafico utilizzato e sfruttare tutte le potenzialità di un sistema operativo GNU/Linux, faresti bene a imparare almeno i principali comandi impartibili da Terminale. Vedrai che non è difficile e da molte soddisfazioni!<br /><br />
 
-There are thousands of commands you can run, each with a number of different options. So this chapter is just a small teaser describing the most common commands.<br /><br />
+I comandi impartibili da terminale sono migliaia, e ognuno di essi ha svariate opzioni. Questa è solo una piccola descrizione dei comandi più comuni.<br /><br />
 
-You'll find <i>Konsole</i> under System in the launch menu.<br /><br />
+Trovi l'applicazione <i>Konsole</i> nel menù principale, sotto la voce Sistema.<br /><br />
 
 <center><video src="video/konsole.ogv" controls>  
 
 <center><a href="images/screenshots/konsole.png" rel="thumbnail"><img src="images/screenshots/konsoleb.png" alt="konsole" class="pic" /></a></center><br />
 
-<b>Your web browser does not support the HTML5 video element and/or Ogg Theora format.<br />
-Try Firefox, Konqueror or Opera.</b><br /><br />
+<b>Il tuo browser web non supporta i video HTML5 e/o il formato Ogg Theora.<br />
+Usa Firefox, Konqueror o Opera.</b><br /><br />
 
-<a href="video/konsole.ogv">Download video for local viewing (4.3 MB)</a>
+<a href="video/konsole.ogv">Download il video per guardarlo in locale (4.3 MB)</a>
 </video></center>  <br /><br />
 
 Using the command line is quite easy. Simply enter a command and possibly one or more options and one or more arguments and then press Enter. Example:
