@@ -22,36 +22,36 @@ Usa Firefox, Konqueror o Opera.</b><br /><br />
 <a href="video/konsole.ogv">Download il video per guardarlo in locale (4.3 MB)</a>
 </video></center>  <br /><br />
 
-Using the command line is quite easy. Simply enter a command and possibly one or more options and one or more arguments and then press Enter. Example:
+Usare la riga di comando è abbastanza semplice. Basta inserire un comando, possibilmente con una o più opzioni e uno o più argomenti, e premere Invio. Ecco un esempio:
 
 <div class="cl">ls -l /home/[username]/ </div><br />
 
-The <i>command</i> <b>ls</b> displays a list of files, the <i>option</i> <b>-l</b> means that the list will be displayed in a long listing format, and the <i>argument</i> <b>/home/[username]/</b> sets the directory of which the contents are listed.<br /><br />
+Il <i>comando</i> <b>ls</b> visualizza una lista di file, l'<i>opzione</i> <b>-l</b> significa che la lista verrà visualizzata in un lungo elenco, e l'<i>argemento</i> <b>/home/[username]/</b> indica la cartella di cui bisognerà visualizzare il contenuto.<br /><br />
 
 
 
-<div class="heading2">8.1 Useful Shortcuts</div><br />
+<div class="heading2">8.1 Scorciatoie utili</div><br />
 
-<div class="heading3">Tab-key</div>
-The tab-key is increcibly useful, if possible it will auto-complete commands and arguments, which helps you work faster and avoid typos.<br /><br />
+<div class="heading3">Tasto Tab</div>
+Il tasto tab è molto utile, se possibile completerà automaticamente i comandi e gli argomenti. Questo ti permetterà di scrivere velocemente e di evitare errori di battitura.<br /><br />
 
 <div class="heading3">Ctrl+Shift+V</div>
-Paste from the clipboard.<br /><br />
+Incolla dagli appunti.<br /><br />
 
 <div class="heading3">Ctrl+C</div>
-This shortcut stops any operation you may have started.<br /><br />
+Questa scorciatoia termina qualsiasi operazione in corso.<br /><br />
 
 
 
-<div class="heading2">8.2 Examples of Basic Commands</div>
-This is just a very small selection of commands to give you an idea of how things work.<br /><br />
+<div class="heading2">8.2 Esempi di comandi basilari</div>
+Questa è una piccolissima selezione di comandi per darti un'idea di come funzionano.<br /><br />
 
 <div class="tip">
 <table>
 <tbody>
 <tr>
 <td><img src="images/pics/tip.png" alt="tip" /></td>
-<td>Commands written in <u>red</u> need to be ran as root.</td>
+<td>I comandi scritti in <u>rosso</u> devono essere lanciati come utente root (superutente).</td>
 </tr>
 </tbody>
 </table>
