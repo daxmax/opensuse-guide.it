@@ -1,31 +1,31 @@
 <?php include 'header.php'; ?>
-<title>Appendix E: Getting Involved - Being a Part of the openSUSE Community and How to Contribute</title>
+<title>Appendice E: Entra a far parte della Community openSUSE - ecco come contribuire</title>
 <?php include 'header2.php'; ?>
 <?php include 'menu.php'; ?> 
 
 
 
-<div class="heading1">Appendix E: Getting Involved</div>
-openSUSE is developed in the open, and everybody can join in - this means that you can help to create and shape openSUSE. If you wish to participate actively in openSUSE or other free software projects, there are plenty of things to do. Finding something that matches your interests, available time and your skills should be no problem at all.<br /><br />
+<div class="heading1">Appendix E: Entra nella Community</div>
+openSUSE è sviluppato in modo aperto, e chiunque può unirsi al progetto. Questo significa che puoi aiutare a creare e modificare openSUSE. Se vuoi partecipare attivamente a openSUSE puoi farlo in molti modi. Trova qualche cosa affine ai tuoi interessi e vedrai che il poco tempo o le scarse competenze non saranno più un problema.<br /><br />
 
 <div class="tip"><em>"I get the question of "Where should I start?" fairly often and my advice is just don't even ask that question. It's more like if you're not interested enough in one particular area that you already know what you want to try to do, don't do it. Just let it go and then when you hit something where you say, "I could do this better" and you actually feel motivated enough that you go from saying that to doing that, you will have answered that question yourself."</em> - <b>Linus Torvalds</b></div><br />
 
 
 
-<div class="heading2">E.1 Get in Touch</div>
-The first steps to getting involved is to follow the news and getting to know the community.<br /><br />
+<div class="heading2">E.1 Entra in contatto con la Community</div>
+Il primo passo per mettersi in gioco è di seguire le notizie e conoscere la community.<br /><br />
 
 
 
-<div class="heading3">E.1.1 News and Blogs</div>
-Consider following these sources. These and more relevant news feeds are preconfigured in the Akregator RSS-reader which is installed by default and is part of the Kontact suite:<br />
+<div class="heading3">E.1.1 News e Blog</div>
+Inizia a seguire queste fonti. Queste e altre notizie rilevanti sono preconfigurate nel programma Akregator (un reader RSS) che trovi già installato in openSUSE all'interno del menù Internet:<br />
 <a href="http://news.opensuse.org" target="_blank">http://news.opensuse.org</a><br />
 <a href="http://planet.opensuse.org" target="_blank">http://planet.opensuse.org</a><br /><br />
 
 
 
-<div class="heading3">E.1.2 Mailinglists</div>
-You should also join some of the mailinglists, this is the primary form of communication for the project, -announce, -project, -kde and -factory are some of the major ones, that most would want to subscribe to:<br />
+<div class="heading3">E.1.2 Mailing list</div>
+Potresti essere anche interessato a entrare in una mailing list. La mailing list è la principale forma di comunicazione del progetto, -announce, -project, -kde e -factory sono le principali mailing list che potresti essere interessato a seguire:<br />
 <a href="http://en.opensuse.org/openSUSE:Mailing_lists" target="_blank">http://en.opensuse.org/openSUSE:Mailing_lists</a><br /><br />
 
 
