@@ -31,13 +31,13 @@ Potresti essere anche interessato a entrare in una mailing list. La mailing list
 
 
 <div class="heading3">E.1.3 IRC</div>
-Consider hanging out in some IRC channels, where much communication and coordination takes place, as well as regular meetings.<br />
+Visita i canali IRC di tuo interesse.<br />
 <a href="http://en.opensuse.org/openSUSE:IRC_list" target="_blank">http://en.opensuse.org/openSUSE:IRC_list</a><br /><br />
 
 
 
-<div class="heading3">E.1.4 Social Networks</div>
-The openSUSE project has its own social network where community members can communicate:<br />
+<div class="heading3">E.1.4 Social Network</div>
+Il progetto openSUSE ha un proprio social network dove i membtri della community possono comunicare:<br />
 <a href="https://connect.opensuse.org/" target="_blank">https://connect.opensuse.org/</a><br /><br />
 
 Of course the openSUSE community is also present on all the major social media:<br />
