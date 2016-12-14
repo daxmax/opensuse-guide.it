@@ -49,13 +49,13 @@ Ovviamente la community openSUSE è anche presente su tutti i principali social 
 
 
 <div class="heading3">E.1.5 Conferenza annuale</div>
-La community openSUSE si riunisce due volte all'anno, rispettivamente in Europa e Nord America  meets twice a year for annual openSUSE conferences in Europa and North America respectively. Which is a great opportunity to meet other community members.<br />
+La community openSUSE si riunisce due volte all'anno, rispettivamente in Europa e Nord America. La conferenza annuale è una grande opportunità per incontrare gli altri membri della community.<br />
 <a href="http://conference.opensuse.org" target="_blank">http://conference.opensuse.org</a><br />
 <a href="http://summit.opensuse.org/" target="_blank">http://summit.opensuse.org/</a><br /><br />
 
 
 
-<div class="heading2">E.2 Participating in openSUSE</div>
+<div class="heading2">E.2 Partecipare a openSUSE</div>
 This is just a brief summary of some of the areas where you can contribute while helping to shape the distribution and having a lot of fun.<br /><br />
 
 
