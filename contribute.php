@@ -56,72 +56,72 @@ La community openSUSE si riunisce due volte all'anno, rispettivamente in Europa 
 
 
 <div class="heading2">E.2 Partecipare a openSUSE</div>
-This is just a brief summary of some of the areas where you can contribute while helping to shape the distribution and having a lot of fun.<br /><br />
+Questo è solo un piccolo elenco di alcune delle aree in cui potresti contribuire aiutando lo sviluppo della distribuzione.<br /><br />
 
 
 
-<div class="heading3">E.2.1 User Support</div>
-Once you have familiarized yourself with openSUSE, you'll quickly be able to help new users in the <a href="http://forums.opensuse.org" target="_blank">forums</a>, <a href="http://en.opensuse.org/openSUSE:IRC_list" target="_blank">IRC</a> or <a href="http://en.opensuse.org/openSUSE:Mailing_lists" target="_blank">mailinglists</a>. Apart from helping others, you will learn a lot yourself in the process.<br /><br />
+<div class="heading3">E.2.1 Supporto Utenti</div>
+Quando avrai familiarizzato con openSUSE, sarai in grado di aiutare velocemente i nuovi utenti nei <a href="http://forums.opensuse.org" target="_blank">forum</a>, <a href="http://en.opensuse.org/openSUSE:IRC_list" target="_blank">IRC</a> o <a href="http://en.opensuse.org/openSUSE:Mailing_lists" target="_blank">mailing list</a>. Leggendo queste fonti, inoltre, imparerai moltre altre cose diventando ogni giorno più esperto.<br /><br />
 
 
 
 <div class="heading3">E.2.2 Marketing</div>
-There's a marketing team working on promoting openSUSE in various ways, which you can join or even become an official openSUSE ambassador.<br />
+C'è un team di marketing che lavora per promuovere openSUSE, se ti interessa puoi diventare un ambasciatore ufficiale di openSUSE.<br />
 <a href="http://en.opensuse.org/Portal:Marketing" target="_blank">http://en.opensuse.org/Portal:Marketing</a><br />
 <a href="http://en.opensuse.org/openSUSE:Ambassadors" target="_blank">http://en.opensuse.org/openSUSE:Ambassadors</a><br /><br />
 
-You can buy merchandise and help market openSUSE that way:<br />
+Puoi anche acquistare molti oggetti marcati openSUSE nello shop, aiutando la distribuzione e pubblicizzandone il marchio allo stesso tempo:<br />
 <a href="http://shop.opensuse.org" target="_blank">http://shop.opensuse.org/</a><br /><br />
 
 
 
-<div class="heading3">E.2.3 Wiki and Documentation</div> 
-The openSUSE wiki is always in need of new articles, or cleanup of existing ones.<br />
+<div class="heading3">E.2.3 Wiki e documentazione</div> 
+Il wiki di openSUSE ha la continua necessità di aggiornare gli articoli esistenti, crearne di nuovi e cancellare i vecchi divenuti obsoleti.<br />
 <a href="http://en.opensuse.org/openSUSE:Wiki_team" target="_blank">http://en.opensuse.org/openSUSE:Wiki_team</a><br /><br />
 
-Read about the documentation team here:<br />
+Maggiori informazioni sul "Documentation team" di openSUSE qui:<br />
 <a href="http://en.opensuse.org/openSUSE:Documentation_team" target="_blank">
 http://en.opensuse.org/openSUSE:Documentation_team</a><br /><br />
 
 
 
-<div class="heading3">E.2.4 Translation</div>
-Translate the openSUSE distribution and/or wiki to your native language. You can find a web based interface (Weblate) to translate openSUSE specific software here:<br />
+<div class="heading3">E.2.4 Traduzioni</div>
+Traduci la distribuzione openSUSE e/o i suoi wiki nella tua lingua. Trovi tutti gli strumenti qui:<br />
 <a href="http://l10n.opensuse.org" target="_blank">http://l10n.opensuse.org</a><br /><br />
 
-You can see an overview of the existing translation teams here:<br />
+Trovi una panoramica dei team di traduzione attivi qui:<br />
 <a href="https://en.opensuse.org/OpenSUSE_Localization_Teams" target="_blank">https://en.opensuse.org/OpenSUSE_Localization_Teams</a><br /><br />
 
 
 
 <div class="heading3">E.2.5 Artwork</div>
-If you're an artist you can create icons and other artwork for the distribution, marketing, websites and so forth.<br />
+Se sei un artista puoi creare icone o altri artwork per la distribuzione, il marketing, i siti web e altro.<br />
 <a href="http://en.opensuse.org/Portal:Artwork" target="_blank">http://en.opensuse.org/Portal:Artwork</a><br /><br />
 
 
 
-<div class="heading3">E.2.6 Bug Reports and Feature Requests</div>
-You can help test the development versions of upcoming openSUSE releases.<br /><br />
+<div class="heading3">E.2.6 Bug Report e Richieste di nuove funzioni</div>
+Puoi aiutare a testare e migliorare la prossima versione di openSUSE attualmente in sviluppo.<br /><br />
 
-You'll find the roadmap here:<br />
+Trovi la roadmap qui:<br />
 <a href="http://en.opensuse.org/Roadmap" target="_blank">http://en.opensuse.org/Roadmap</a><br /><br />
 
-Get the latest development version here:<br />
+Scarica la versione in sviluppo più recente qui:<br />
 <a href="http://software.opensuse.org/developer" target="_blank">http://software.opensuse.org/developer</a><br /><br />
 
-Read this before reporting bugs:<br />
+Leggi qui prima di iniziare i report dei bug:<br />
 <a href="http://en.opensuse.org/openSUSE:Submitting_bug_reports" target="_blank">http://en.opensuse.org/openSUSE:Submitting_bug_reports</a><br /><br />
 
-You can request new features for openSUSE here, or vote for (or against) existing requests:<br />
+Puoi richiedere l'implementazione di nuove funzioni qui, dove puoi anche votare a favore (o contro) delle richieste esistenti:<br />
 <a href="http://features.opensuse.org" target="_blank">http://features.opensuse.org</a><br /><br />
 
-There's also an organized testing team which you can join, see:<br />
+C'è anche un team ufficiale per il test a cui puoi aderire:<br />
 <a href="http://en.opensuse.org/openSUSE:Testing" target="_blank">http://en.opensuse.org/openSUSE:Testing</a><br /><br />
 
 
 
-<div class="heading3">E.2.7 Building Packages</div>
-The availability of as many as possible, high quality binary packages is crucial for any distribution. You can build packages on the openSUSE Build Service and even maintain packages in the official distribution:<br />
+<div class="heading3">E.2.7 Creare pacchetti</div>
+La disponibilità di un elevato numero di applicazioni è cruciale per ogni distribuzione. Puoi creare pacchetti nell' openSUSE Build Service e anche mantenerli aggiornati nella distribuzione ufficiale:<br />
 <a href="http://en.opensuse.org/Portal:Build_Service" target="_blank">http://en.opensuse.org/Portal:Build_Service</a><br />
 <a href="https://en.opensuse.org/openSUSE:Factory_development_model" target="_blank">https://en.opensuse.org/openSUSE:Factory_development_model</a><br />
 <a href="https://en.opensuse.org/openSUSE:Development_Process" target="_blank">https://en.opensuse.org/openSUSE:Development_Process</a><br />
@@ -129,14 +129,13 @@ The availability of as many as possible, high quality binary packages is crucial
 <a href="https://en.opensuse.org/openSUSE:How_to_contribute_to_Leap" target="_blank">https://en.opensuse.org/openSUSE:How_to_contribute_to_Leap</a><br />
 <a href="http://en.opensuse.org/openSUSE:Junior_jobs" target="_blank">http://en.opensuse.org/openSUSE:Junior_jobs</a><br /><br />
 
-You can also contribute to the Packman project - which provides a very important 3rd party repository with particularly multimedia - with packaging and other contributions:<br />
+Puoi anche contribuire al progetto Packman, che fornisce un importantissimo repository di applicazioni di terze parti con particolare attenzione al multimedia:<br />
 <a href="http://packman.links2linux.org/" target="_blank">http://packman.links2linux.org/</a><br /><br />
 
 
 
-<div class="heading3">E.2.8 Code</div>
-If you're a programmer you can contribute code to fix bugs or add features e.g. in YaST or other components developed by the openSUSE project itself - and of course if you contribute code to upstream projects, openSUSE will benefit from this too - eventually. You can find the source code for various openSUSE components here in publically accessible version control systems:<br />
-<a href="https://gitorious.org/opensuse" target="_blank">https://gitorious.org/opensuse</a><br />
+<div class="heading3">E.2.8 Codice</div>
+Se sei un programmatore puoi contribuire al codice per correggere bug, o aggiungere funzioni. Trovi il codice sorgente di numerosi componenti di openSUSE qui:<br />
 <a href="https://github.com/openSUSE" target="_blank">https://github.com/openSUSE</a><br />
 <a href="https://github.com/yast/" target="_blank">https://github.com/yast/</a><br /><br />
 
