@@ -142,19 +142,19 @@ Se sei un programmatore puoi contribuire al codice per correggere bug, o aggiung
 
 
 <div class="heading3">E.2.9 Mirror Admin</div>
-openSUSE needs fast and reliable mirrors to host ISOs and repositories in all parts of the world, to ensure that users have a good experience, if you work in a university or similar, maybe you can help out.<br />
+Per assicurare agli utenti la migliore esperienza d'uso possibile, openSUSE ha bisogno di mirrors per le ISO e i repository della distribuzione in tutto il mondo. Se lavori in una università potresti dare un contributo importante.<br />
 <a href="http://en.opensuse.org/openSUSE:Mirror_infrastructure" target="_blank">http://en.opensuse.org/openSUSE:Mirror_infrastructure</a><br /><br />
 
 
 
-<div class="heading3">E.2.10 Respins</div>
-Create customized ISO respins and openSUSE derivatives.<br />
+<div class="heading3">E.2.10 Derivate</div>
+Puoi creare e personalizzare una nuova distribuzione, derivata di openSUSE, con SUSE studio.<br />
 <a href="http://susestudio.com" target="_blank">http://susestudio.com</a><br /><br />
 
 
 
-<div class="heading3">E.2.11 Funds</div>
-Development of free software also needs money and you can help by donating money to your favourite projects or joining some organizations, like e.g.:<br />
+<div class="heading3">E.2.11 Invio di Fondi</div>
+Anche gli sviluppatori di free software necessitano di denaro per vivere. Puoi aiutare economicamente i tuoi progetti favoriti con una donazione. Ecco alcuni esempi:<br />
 <a href="http://jointhegame.kde.org/" target="_blank">http://jointhegame.kde.org/</a><br />
 <a href="http://www.fsf.org/associate/" target="_blank">http://www.fsf.org/associate/</a><br />
 <a href="http://fellowship.fsfe.org/" target="_blank">http://fellowship.fsfe.org/</a><br /><br />
