@@ -16,7 +16,7 @@ Non tutti i principali giochi vengono sviluppati per GNU/Linux, ma ci sono comun
 
 
 
-<div class="heading3">B.1.1 openSUSE Build Service Games Repository</div>
+<div class="heading3">B.1.1 Repository Games</div>
 Alcuni semplici giochi sono inclusi nel repository ufficiale di openSUSE, ma è ne troverai molti di più nel repository Games. Puoi aggiungere facilmente il repository Games consultando il capitolo <a href="repositories.php">Repository Software</a><br /><br />
 
 Oppure aggiungi il repository Games utilizzando la riga di comando:
@@ -29,17 +29,11 @@ Oppure aggiungi il repository Games utilizzando la riga di comando:
 
 
 
-<div class="heading3">B.1.3 Desura</div>
-The Desura distribution service for gamers provides easy access to non-free indie games, see:<br />
-<a href="http://www.desura.com" target="_blank">http://www.desura.com</a><br /><br />
-
-
-
-<div class="heading3">B.1.4 Other GNU/Linux Gaming Resources</div>
-Linux Game Publishing buy titles and port them to GNU/Linux, see:<br />
+<div class="heading3">B.1.3 Altre informazioni sui Giochi per GNU/Linux</div>
+Linux Game Publishing acquista giochi e li porta su GNU/Linux, vedi:<br />
 <a href="http://www.linuxgamepublishing.com" target="_blank">http://www.linuxgamepublishing.com</a><br /><br />
 
-Lots and lots more of free and non-free games exist - some small and simple, others quite big, and many very good. Check out some of these sites:<br />
+Esistono moltissimi giochi per GNU/Linux - Visita questi siti:<br />
 
 <a href="http://www.tuxgames.com/" target="_blank">http://www.tuxgames.com/</a><br />
 <a href="http://www.penguspy.com/" target="_blank">http://www.penguspy.com/</a><br />
@@ -48,8 +42,8 @@ Lots and lots more of free and non-free games exist - some small and simple, oth
 
 
 
-<div class="heading2">B.2 Running MS Windows Games</div>
-Some software available for GNU/Linux allows you to run games developed for MS Windows on GNU/Linux - ease of use and success rate may vary - however, the more popular the game, the more likely it is to be supported.<br /><br />
+<div class="heading2">B.2 Usare i Giochi per MS Windows</div>
+Alcune applicazioni permettono di far girare giochi sviluppati per MS Windows su GNU/Linux - Attenzione: non sempre la compatibilità è garantita al 100%, verifica sempre se il gioco è supportato.<br /><br />
 
 
 
