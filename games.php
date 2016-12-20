@@ -62,7 +62,7 @@ Wine si lancia da riga di comando, il comando è:
 
 
 <div class="heading2">B.3 Emulatori</div>
-Numerous emulators exist, making it possible to run many old classic games of other platforms on GNU/Linux. For example:<br />
+Esistono emulatori che permettono di giocare su GNU/Linux a numerosi classici giochi di altre vecchie piattaforme. Alcuni esempi:<br />
 
 <ul>
   <li>Amiga (UAE)</li>
@@ -80,7 +80,7 @@ Numerous emulators exist, making it possible to run many old classic games of ot
 <tbody>
 <tr>
 <td><img src="images/pics/tip.png" alt="tip" /></td>
-<td>Usually you can only do this legally, if you own the original hardware/have a licence for it.</td>
+<td>Legalmente puoi usare questi emulatori solo se sei già in possesso dell'hardware e del software originale.</td>
 </tr>
 </tbody>
 </table>
