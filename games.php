@@ -48,16 +48,16 @@ Alcune applicazioni permettono di far girare giochi sviluppati per MS Windows su
 
 
 <div class="heading3">B.2.1 Wine</div>
-Wine (Wine Is Not an Emulator) is the first option, it's free software installable via the package manager. See the Wine app database for information on running individual games:<br />
+Wine (Wine Is Not an Emulator) è la prima opzione ed è installabile dal gestore dei pacchetti. Controlla il database di Wine per verificare la compatibilità dei singoli giochi:<br />
 <a href="http://appdb.winehq.org/appbrowse.php?iCatId=2" target="_blank">http://appdb.winehq.org/appbrowse.php?iCatId=2</a><br /><br />
 
-Wine is a command line application, the syntax is:
+Wine si lancia da riga di comando, il comando è:
 <div class="cl">wine /path/to/setup.exe</div><br />
 
 
 
 <div class="heading3">B.2.2 PlayOnLinux</div>
-<a href="http://www.playonlinux.com/" target="_blank">PlayOnLinux</a> is based on Wine and lets you easily install and use (some) MS Windows Games. You can find packages of PlayOnLinux in the above mentioned Games repository.<br /><br />
+<a href="http://www.playonlinux.com/" target="_blank">PlayOnLinux</a> è basato su Wine e ti permette di installare facilmente alcuni giochi per MS Windows. Trovi i pacchetti di PlauOnLinux nel repository Games.<br /><br />
 
 
 
