@@ -1,5 +1,5 @@
 
-<div class="small" align="center">Send your comments via e-mail to admin [at] opensuse-guide.org</div>
+<div class="small" align="center">Invia commenti e segnalazioni via e-mail a: admin [at] open-suse.it</div>
 
 
 </div>
