@@ -48,7 +48,7 @@ Alcune applicazioni permettono di far girare giochi sviluppati per MS Windows su
 
 
 <div class="heading3">B.2.1 Wine</div>
-Wine (Wine Is Not an Emulator) è la prima opzione ed è installabile dal gestore dei pacchetti. Controlla il database di Wine per verificare la compatibilità dei singoli giochi:<br />
+Wine (Wine Is Not an Emulator) è installabile dal gestore dei pacchetti. Controlla il database di Wine per verificare la compatibilità dei singoli giochi:<br />
 <a href="http://appdb.winehq.org/appbrowse.php?iCatId=2" target="_blank">http://appdb.winehq.org/appbrowse.php?iCatId=2</a><br /><br />
 
 Wine si lancia da riga di comando, il comando è:
@@ -61,13 +61,7 @@ Wine si lancia da riga di comando, il comando è:
 
 
 
-<div class="heading3">B.2.3 CrossOver Games</div>
-A second option is CrossOver Games which is an effort based on Wine. See:<br />
-<a href="https://www.codeweavers.com/products/cxgames/" target="_blank">https://www.codeweavers.com/products/cxgames/</a><br /><br />
-
-
-
-<div class="heading2">B.3 Emulators</div>
+<div class="heading2">B.3 Emulatori</div>
 Numerous emulators exist, making it possible to run many old classic games of other platforms on GNU/Linux. For example:<br />
 
 <ul>
