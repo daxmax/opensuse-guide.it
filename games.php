@@ -1,31 +1,31 @@
 <?php include 'header.php'; ?>
-<title>Appendix B: Games - Playing Games on openSUSE</title>
+<title>Appendix B: Giochi - Come giocare su openSUSE</title>
 <?php include 'header2.php'; ?>
 <?php include 'menu.php'; ?> 
 
 
 
-<div class="heading1">Appendix B: Games</div>
-Not all major, mainstream games run natively on GNU/Linux, but there are still plenty of gaming options.<br /><br />
+<div class="heading1">Appendice B: Giochi</div>
+Non tutti i principali giochi vengono sviluppati per GNU/Linux, ma ci sono comunque degli ottimi giochi per divertirsi.<br /><br />
 
 <center><img src="images/pics/spil.jpg" alt="spil" class="pic" /></center>
 
 
 
-<div class="heading2">B.1 Native GNU/Linux Games</div><br />
+<div class="heading2">B.1 Giochi sviluppati per GNU/Linux</div><br />
 
 
 
 <div class="heading3">B.1.1 openSUSE Build Service Games Repository</div>
-Some games are included in the official openSUSE repositories, but the Games repository on the openSUSE Build Service includes a lot more games. You can easily add this repository via the list of Community Repositories as described in the chapter about <a href="repositories.php">Software Repositories</a><br /><br />
+Alcuni semplici giochi sono inclusi nel repository ufficiale di openSUSE, ma è ne troverai molti di più nel repository Games. Puoi aggiungere facilmente il repository Games consultando il capitolo <a href="repositories.php">Repository Software</a><br /><br />
 
-Or add the games repository using the command line:
+Oppure aggiungi il repository Games utilizzando la riga di comando:
 <div class="clroot">zypper addrepo -f http://download.opensuse.org/repositories/games/openSUSE_Leap_42.2/ games</div><br />
 
 
 
-<div class="heading3">B.1.2 Steam Gaming Platform and Store</div>
-The <a href="http://store.steampowered.com/browse/linux/" target="_blank">Steam gaming platform and store</a> is available for GNU/Linux.You can find packages of it <a href="http://software.opensuse.org/package/steam" target="_blank">here</a><br /><br />
+<div class="heading3">B.1.2 Steam</div>
+<a href="http://store.steampowered.com/browse/linux/" target="_blank">Steam</a> è una piattaforma online usata per gestire e distribuire una vasta gamma di giochi (alcuni esclusivi) e il loro relativo supporto. E' disponibile per GNU/Linux. Puoi installare il pacchetto cliccando <a href="http://software.opensuse.org/package/steam" target="_blank">qui</a><br /><br />
 
 
 
